@@ -2,3 +2,6 @@ obj
 bin
 
 .fake
+Labfiles/02-image-classification/training-images/training_labels.json
+Labfiles/07-custom-vision-image-classification/C-Sharp/train-classifier/appsettings.json
+Labfiles/03-object-detection/C-Sharp/train-detector/appsettings.json
