@@ -1,0 +1,15 @@
+/home/richard/mslearn-ai-vision-main/Labfiles/Safety/Safety/bin/Debug/net9.0/Safety
+/home/richard/mslearn-ai-vision-main/Labfiles/Safety/Safety/bin/Debug/net9.0/Safety.deps.json
+/home/richard/mslearn-ai-vision-main/Labfiles/Safety/Safety/bin/Debug/net9.0/Safety.runtimeconfig.json
+/home/richard/mslearn-ai-vision-main/Labfiles/Safety/Safety/bin/Debug/net9.0/Safety.dll
+/home/richard/mslearn-ai-vision-main/Labfiles/Safety/Safety/bin/Debug/net9.0/Safety.pdb
+/home/richard/mslearn-ai-vision-main/Labfiles/Safety/Safety/obj/Debug/net9.0/Safety.GeneratedMSBuildEditorConfig.editorconfig
+/home/richard/mslearn-ai-vision-main/Labfiles/Safety/Safety/obj/Debug/net9.0/Safety.AssemblyInfoInputs.cache
+/home/richard/mslearn-ai-vision-main/Labfiles/Safety/Safety/obj/Debug/net9.0/Safety.AssemblyInfo.cs
+/home/richard/mslearn-ai-vision-main/Labfiles/Safety/Safety/obj/Debug/net9.0/Safety.csproj.CoreCompileInputs.cache
+/home/richard/mslearn-ai-vision-main/Labfiles/Safety/Safety/obj/Debug/net9.0/Safety.sourcelink.json
+/home/richard/mslearn-ai-vision-main/Labfiles/Safety/Safety/obj/Debug/net9.0/Safety.dll
+/home/richard/mslearn-ai-vision-main/Labfiles/Safety/Safety/obj/Debug/net9.0/refint/Safety.dll
+/home/richard/mslearn-ai-vision-main/Labfiles/Safety/Safety/obj/Debug/net9.0/Safety.pdb
+/home/richard/mslearn-ai-vision-main/Labfiles/Safety/Safety/obj/Debug/net9.0/Safety.genruntimeconfig.cache
+/home/richard/mslearn-ai-vision-main/Labfiles/Safety/Safety/obj/Debug/net9.0/ref/Safety.dll
